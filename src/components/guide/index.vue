@@ -18,7 +18,7 @@
       <p>
        <!-- adsense oid -->
        </p>
-      <div class="space">SPACE</div>
+      <div class="space">SPATIE</div>
     </div>
     <!--div class="guide qr">
       <img :src="QRSrc" v-bind="{title:QRTitle,alt:QRCode}" />
