@@ -25,9 +25,9 @@ export default {
     labelLeft: () => i18n.left[lan],
     labelRight: () => i18n.right[lan],
     labelDown: () => i18n.down[lan],
-    labelDropSpace: () => `${i18n.drop[lan]} (SPACE)`,
+    labelDropSpace: () => `${i18n.drop[lan]} (SPATIE)`,
     labelResetR: () => `${i18n.reset[lan]}(R)`,
-    labelSoundS: () => `${i18n.sound[lan]}(S)`,
+    labelSoundS: () => `${i18n.sound[lan]}(G)`,
     labelPauseP: () => `${i18n.pause[lan]}(P)`
   },
   mounted() {
