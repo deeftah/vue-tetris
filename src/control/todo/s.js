@@ -6,7 +6,7 @@ const down = store => {
     return
   }
   event.down({
-    key: 's',
+    key: 'g',
     once: true,
     callback: () => {
       if (store.state.lock) {
@@ -20,7 +20,7 @@ const down = store => {
 const up = store => {
   store.commit('key_music', false)
   event.up({
-    key: 's'
+    key: 'g'
   })
 }
 
