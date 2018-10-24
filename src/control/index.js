@@ -7,7 +7,7 @@ const keyboard = {
   39: 'right',
   40: 'down',
   32: 'space',
-  83: 's',
+  83: 'g',
   82: 'r',
   80: 'p'
 }
